@@ -16,7 +16,7 @@ a {
 }
 
 body {
-    background-image: linear-gradient(to bottom right, rgba(79,51,176,1),rgba(210,53,165));
+    background-image: linear-gradient(to bottom right, rgb(0, 15, 100),rgb(22, 91, 194));
 }
 
 .container {
@@ -122,7 +122,7 @@ button#equal {
 }
 
 .calculator button.btn-operator {
-    background-color: #ffd0fb;
+    background-color: #d1d0ff;
     color: #f967f3;
 }
 
